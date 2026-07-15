@@ -5,7 +5,6 @@ This business intelligence dashboard provides a comprehensive analysis of sales 
 
 
 
-
 <div align="center">
   <iframe 
     title="Power BI Dashboard" 
